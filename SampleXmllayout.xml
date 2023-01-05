@@ -3,4 +3,7 @@
     <referenceContainer name="content">
         <block class="VendorName\ModuleName\Block\Display" name="sample_display" template="VendorName_ModuleName::Testsample.phtml" />
     </referenceContainer>
+    <referenceContainer name="content">
+        <block class="VendorName\ModuleName\Block\Display" name="sample_display" template="VendorName_ModuleName::Testsample.phtml" />
+    </referenceContainer>
 </page>
